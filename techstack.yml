@@ -1,0 +1,18 @@
+repo_name: gordonpn/soen331-assignment3
+report_id: 4d3c23a001299c805a3bf6fd0ae26a98
+repo_type: Public
+timestamp: '2023-11-09T13:30:42+00:00'
+requested_by: gordonpn
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
